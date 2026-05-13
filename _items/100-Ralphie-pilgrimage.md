@@ -1,8 +1,8 @@
 ---
 layout: Ralphie pilgrimage
 title: "Venture into the Depths of Mother Earth"
-categories: [ Eastern Europe, 11th century ]
-mapurl: "https://www.google.com/maps/@42.2602075,-85.6393558,17z?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+categories: [ King Olaf pilgrimage Trondheim Nidaros]
+mapurl: "https://www.google.com/maps/place/Nidaros+Cathedral/@63.4269577,10.3971226,18z"
 clue: "Find me in the depths of the IMU near the truck loading zone entrance."
 shortdesc: >
     This IUB landmark is very bright, big and showy on the outside. It has so many different additions and construction phases that visitors get lost very quickly above ground, and it contains a system of interlinking tunnels and caverns down below that are even more labyrinthine. Be careful! One wrong turn and you never know where you'll end up....
