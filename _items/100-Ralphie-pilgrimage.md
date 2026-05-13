@@ -1,5 +1,5 @@
 ---
-layout: pilgrimage
+layout: Ralphie pilgrimage
 title: "Venture into the Depths of Mother Earth"
 categories: [ Eastern Europe, 11th century ]
 mapurl: "https://www.google.com/maps/@42.2602075,-85.6393558,17z?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -19,8 +19,8 @@ learnmore: |
 medievallat: 50.4346375
 medievallong: 30.5550671
 entryauthor:
-  name: "Russell Valentino"
-  affiliation: "Slavic and East European Languages and Cultures, Indiana University"
+  name: "Ralph Mathisen"
+  affiliation: "Univ of Illinois"
 img: https://upload.wikimedia.org/wikipedia/commons/f/fb/Лавра.jpg
 imgcredit: "Kiev-Pechersk Lavra Complex (National Reserve of Kyiv-Pechersk Lavra), Kiev, Lavra Str. (Wikimedia Commons)"
 creationdate: 2026-01-29
