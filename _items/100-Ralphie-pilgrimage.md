@@ -18,6 +18,6 @@ entryauthor:
   name: "Ralph Mathisen"
   affiliation: "Univ of Illinois"
 img: https://www.google.com/imgres?q=Nidaros%20cathedral%20reconstruction&imgurl=https%3A%2F%2Fwww.medievalists.net%2Fwp-content%2Fuploads%2F2017%2F12%2FRSnidarosarealFigure-11.jpg&imgrefurl=https%3A%2F%2Fwww.medievalists.net%2F2017%2F12%2Fthousand-year-old-cathedral-surrenders-secrets-stone-stone%2F&docid=cAUMok4RCLc7AM&tbnid=8PPN9KsG5UtySM&w=1500&h=844&hcb=2
-imgcredit: "Kiev-Pechersk Lavra Complex (National Reserve of Kyiv-Pechersk Lavra), Kiev, Lavra Str. (Wikimedia Commons)"
+imgcredit: "(Wikimedia Commons)"
 creationdate: 2026-01-29
 ---
