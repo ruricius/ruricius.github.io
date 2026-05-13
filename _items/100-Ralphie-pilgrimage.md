@@ -1,15 +1,15 @@
 ---
 layout: Ralphie pilgrimage
-title: "Venture into the Depths of Mother Earth"
+title: "King Olaf Pilgrimage Route"
 categories: [ King Olaf pilgrimage Trondheim Nidaros]
-mapurl: "https://www.google.com/maps/place/Nidaros+Cathedral/@63.4269577,10.3971226,18z"
-clue: "Find me in the depths of the IMU near the truck loading zone entrance."
+mapurl: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nidarosdomen_fra_%C3%B8st.jpg"
+clue: "Find me in Norway."
 shortdesc: >
-    This IUB landmark is very bright, big and showy on the outside. It has so many different additions and construction phases that visitors get lost very quickly above ground, and it contains a system of interlinking tunnels and caverns down below that are even more labyrinthine. Be careful! One wrong turn and you never know where you'll end up....
-lat: "42.2602075"
-long: "-85.6393558"
-medievalparalleltitle: "Kyiv-Pechersk Lavra, 'Monastery of the Caves'"
-medievalmapurl: "https://www.google.com/maps/place/Kiev+Pechersk+Lavra/@50.4346375,30.5550671,17z/data=!4m12!1m6!3m5!1s0x40d4cfa04a0c8e5b:0x3b40a2bcbca08807!2sKiev+Pechersk+Lavra!8m2!3d50.4346375!4d30.5572558!3m4!1s0x40d4cfa04a0c8e5b:0x3b40a2bcbca08807!8m2!3d50.4346375!4d30.5572558"
+   I'm a martyr's church
+lat: "63.4269577"
+long: "-10.3971226"
+medievalparalleltitle: "Nidaros Church in Trondheim"
+medievalmapurl: "https://www.google.com/maps/place/Nidaros+Cathedral/@63.4269577,10.3971226,18z"
 medievalparallel: |
     The Kyiv-Pechersk Lavra, or "Monastery of the Caves," founded by the legendary monk Antony, is comprised of a number of structures (churches, bell towers) and a system of narrow underground caverns and passageways that pre-date their use as an Eastern Orthodox site of worship. They have been associated with old Slavic beliefs in the powers of the "moist Mother Earth." The entire place is extremely bright and showy on the outside and rather claustrophobic on the underground inside.
 learnmore: |
