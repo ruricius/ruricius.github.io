@@ -18,7 +18,7 @@ entryauthor:
   name: "Ralph Mathisen"
   affiliation: "Univ of Illinois"
 img:
-  file: ShikokuHenro_Kukai.jpg
+  file: Nidaros.jpg
   credit: "(Wikimedia Commons)"
   source: https://upload.wikimedia.org/wikipedia/commons/7/7e/Nidarosdomen_fra_%C3%B8st.jpg
 creationdate: 2026-01-29
